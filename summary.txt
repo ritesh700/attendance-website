@@ -6,5 +6,5 @@ What is implemented
 5. Situations such as student not bringing mobile or error in projector are handled by giving teacher an option to add attendance of students manually in database.
 
 What we propose to implement
-1. We will include special cases such as seminars and workshops in our website.So this system can be used to take attendance in such cases also.
+1. We will include special cases such as seminars and workshops in our website. So this system can be used to take attendance in such cases also.
 2. There is a case where 1 student can bring 2 mobiles and mark their friend’s attendance also, we will solve this problem by applying face detection after scanning process where student can only take photo from camera and not from gallery. 
