@@ -1,0 +1,10 @@
+What is implemented
+1. We have made a website which has two separate logins for teacher and user
+2. Teacher will login and enter details of class,  branch,  subject and a QR code will be generated, which will be valid for only 1 minute.
+3. Student has to keep their system logged in and scan the QR code shown on the projector within 1 minute, after scanning the QR code their attendance will be marked.
+4. Students location is also taken to stop proxy attendance.
+5. Situations such as student not bringing mobile or error in projector are handled by giving teacher an option to add attendance of students manually in database.
+
+What we propose to implement
+1. We will include special cases such as seminars and workshops in our website.So this system can be used to take attendance in such cases also.
+2. There is a case where 1 student can bring 2 mobiles and mark their friend’s attendance also, we will solve this problem by applying face detection after scanning process where student can only take photo from camera and not from gallery. 
